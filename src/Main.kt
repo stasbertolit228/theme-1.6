@@ -34,4 +34,5 @@ fun main() {
         st.name = "masa"
     }
     println(student4?.name)
+    //выаыва
 }
